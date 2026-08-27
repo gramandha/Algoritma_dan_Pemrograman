@@ -108,6 +108,13 @@ Bagan alir ini menggambarkan algoritma untuk menentukan apakah suatu bilangan se
 
 ---
 
+### 2. Contoh Flowchart Luas Persegi
+Bagan alir ini menggambarkan algoritma untuk menentukan luas persegi dari perkalian nilai tiap sisi:
+
+![Flowchart Luas Persegi](flowchart-luas-persegi.png)
+
+---
+
 Pada Gambar 1.6 merupakan implementasi flowchart ke dalam sebuah program. Nantinya flowchart atau algoritma akan diimplementasikan ke dalam program yang akan dijalankan oleh komputer untuk melakukan tugas tertentu.
 
 ![Gambar 1.6. Implementasi Flowchart ke dalam Sebuah Program](gambar-1-6.png)

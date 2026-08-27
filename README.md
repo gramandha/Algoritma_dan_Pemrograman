@@ -1,7 +1,7 @@
 # Algoritma_dan_Pemrograman
 
 ## Materi:
-1. Minggu-2 [Algoritma dan Flowchart](https://github.com/gramandha/Algoritma_dan_Pemrograman/blob/master/BAB_2/2-algoritma-dan-flowchart.md)
+1. Minggu-2: [Algoritma dan Flowchart](https://github.com/gramandha/Algoritma_dan_Pemrograman/blob/master/BAB_2/2-algoritma-dan-flowchart.md)
 
 
 

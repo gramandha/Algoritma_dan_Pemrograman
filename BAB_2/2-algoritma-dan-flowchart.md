@@ -94,24 +94,24 @@ Berikut adalah tabel simbol flowchart standar beserta nama dan fungsinya:
 
 ## 2.5 CONTOH FLOWCHART
 
-### 1. Contoh Flowchart Pembelian Burger (Standard Process)
+### 1. Contoh Flowchart Luas Persegi
+Bagan alir ini menggambarkan algoritma untuk menentukan luas persegi dari perkalian nilai tiap sisi:
+
+![Flowchart Luas Persegi](flowchart-luas-persegi.png)
+
+---
+
+### 2. Contoh Flowchart Pembelian Burger (Standard Process)
 Bagan alir di bawah ini merepresentasikan algoritma memesan burger di konter makanan cepat saji, disertai opsi tambahan berupa pemesanan kentang (*fries*) dan minuman (*drink*):
 
 ![Flowchart Pemesanan Burger](flowchart-burger.png)
 
 ---
 
-### 2. Contoh Flowchart Menentukan Bilangan Ganjil atau Genap
+### 3. Contoh Flowchart Menentukan Bilangan Ganjil atau Genap
 Bagan alir ini menggambarkan algoritma untuk menentukan apakah suatu bilangan sembarang termasuk dalam kategori ganjil atau genap dengan menggunakan simbol *On-Page Connector* (A):
 
 ![Flowchart Ganjil Genap](flowchart-ganjil-genap.png)
-
----
-
-### 2. Contoh Flowchart Luas Persegi
-Bagan alir ini menggambarkan algoritma untuk menentukan luas persegi dari perkalian nilai tiap sisi:
-
-![Flowchart Luas Persegi](flowchart-luas-persegi.png)
 
 ---
 

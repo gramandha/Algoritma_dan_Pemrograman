@@ -42,13 +42,12 @@ Algoritma adalah **inti dari ilmu komputer**. Secara definisi, algoritma merupak
 7. Tempel perangko pada surat.
 8. Bawa surat ke kantor pos untuk diposkan.
 
-#### **Contoh 2: Mencari akar bulat positif dari bilangan bulat (integer) positif $a$**
-1. Masukkan bilangan bulat positif $a$.
-2. Berikan harga awal $x$ sama dengan $1$.
-3. Hitung $y$ sebesar $x \times x$.
-4. Jika $y$ sama dengan $a$ maka cetak $x$ sebagai akar dari $a$. Selesai.
-5. Tambah nilai $x$ dengan $1$.
-6. Pergi ke langkah 3.
+#### **Contoh 2: Algoritma menghitung luas persegi**
+1. Masukan nilai sisi persegi dan tampung nilainya ke dalam variabel `sisi`.
+2. Hitung luas persegi dengan rumus $Luas = sisi \times sisi$.
+3. Tampilkan nilai `Luas` (hasil perhitungan luas).
+   
+![Gambar 1.1. Rumus Perhitungan Luas Persegi](gambar-1-1.png)
 
 #### **Contoh 3: Menentukan apakah suatu bilangan bulat merupakan bilangan ganjil atau genap**
 1. Masukkan sebuah bilangan sembarang.

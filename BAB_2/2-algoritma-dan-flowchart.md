@@ -1,4 +1,4 @@
-# Bab 2: Algoritma dan Flowchart
+# Minggu 2: Algoritma dan Flowchart
 
 ## 2.1 TUJUAN PEMBELAJARAN (OBJECTIVES)
 Setelah mempelajari bab ini, Anda diharapkan dapat:
@@ -115,9 +115,9 @@ Bagan alir ini menggambarkan algoritma untuk menentukan apakah suatu bilangan se
 
 ---
 
-Pada Gambar 1.6 merupakan implementasi flowchart ke dalam sebuah program. Nantinya flowchart atau algoritma akan diimplementasikan ke dalam program yang akan dijalankan oleh komputer untuk melakukan tugas tertentu.
+Pada Gambar 1.2 merupakan implementasi flowchart ke dalam sebuah program. Nantinya flowchart atau algoritma akan diimplementasikan ke dalam program yang akan dijalankan oleh komputer untuk melakukan tugas tertentu.
 
-![Gambar 1.6. Implementasi Flowchart ke dalam Sebuah Program](gambar-1-6.png)
+![Gambar 1.2. Implementasi Flowchart ke dalam Sebuah Program](gambar-1-6-v3.png)
 
 ---
 

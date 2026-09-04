@@ -1,7 +1,5 @@
 # Panduan Lengkap Dasar Pemrograman C: Variabel, Operator, dan Input/Output
 
-Dokumen ini merupakan panduan terstruktur yang merangkum, menjabarkan, dan mengoreksi isi materi dari dokumen **"3 dasar program c.pdf"** [1]. Panduan ini disusun dengan mengacu pada standar bahasa C modern (ANSI/ISO C11/C17/C23) guna memperbaiki beberapa kesalahan faktual atau materi yang sudah usang dalam modul asli.
-
 ---
 
 ## 1. Tujuan Pembelajaran

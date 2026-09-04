@@ -1,4 +1,4 @@
-# Panduan Lengkap Dasar Pemrograman C: Variabel, Operator, dan Input/Output
+# Panduan Lengkap Dasar Pemrograman C: Tipe Data, Variabel, Konstanta, Operator, dan Input/Output
 
 ---
 

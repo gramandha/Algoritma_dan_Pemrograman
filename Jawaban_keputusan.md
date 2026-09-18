@@ -1,4 +1,52 @@
+## 5. Pembahasan dan Solusi Tugas Mandiri (Slide 22 & 23) Keputusan
 
+### Tugas 1: Program Persamaan Kuadrat & Akar-Akar ($ax^2 + bx + c = 0$)
+
+*Rumus*:
+* $D = b^2 - 4ac$
+* Jika $D = 0$: $x_1 = x_2 = \frac{-b}{2a}$
+* Jika $D > 0$: $x_1 = \frac{-b + \sqrt{D}}{2a}$, $x_2 = \frac{-b - \sqrt{D}}{2a}$
+* Jika $D < 0$: $x_1 = \frac{-b}{2a} + \frac{\sqrt{-D}}{2a}i$, $x_2 = \frac{-b}{2a} - \frac{\sqrt{-D}}{2a}i$
+
+*Kode Program C Lengkap (`persamaan_kuadrat.c`)*:
+```c
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+    float a, b, c;
+    float D, x1, x2, realPart, imagPart;
+    
+    printf("=== Program Persamaan Kuadrat (ax^2 + bx + c = 0) ===\n");
+    printf("Masukkan koefisien a, b, dan c: ");
+    scanf("%f %f %f", &a, &b, &c);
+    
+    if (a == 0) {
+        printf("Bukan persamaan kuadrat (a tidak boleh 0).\n");
+        return 0;
+    }
+    
+    D = (b * b) - (4 * a * c);
+    printf("Nilai Diskriminan (D) = %.2f\n", D);
+    
+    if (D == 0) {
+        x1 = -b / (2 * a);
+        printf("Akar real kembar:\n");
+        printf("x1 = x2 = %.2f\n", x1);
+    } else if (D > 0) {
+        x1 = (-b + sqrt(D)) / (2 * a);
+        x2 = (-b - sqrt(D)) / (2 * a);
+        printf("Dua akar real berlainan:\n");
+        printf("x1 = %.2f\n", x1);
+        printf("x2 = %.2f\n", x2);
+    } else { // D < 0
+        realPart = -b / (2 * a);
+        imagPart = sqrt(-D) / (2 * a);
+        printf("Dua akar imajiner (kompleks) berlainan:\n");
+        printf("x1 = %.2f + %.2fi\n", realPart, imagPart);
+        printf("x2 = %.2f - %.2fi\n", realPart, imagPart);
+    }
+    
 ---
 
 ### Tugas 2: Program Konversi Nilai Angka (0-100) ke Klasifikasi Huruf

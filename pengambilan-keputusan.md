@@ -360,8 +360,8 @@ Terdapat beberapa kesalahan materi dan praktik penulisan pada modul asli yang wa
   if (Nilai > 70 && Nilai <= 80)
   ```
 
-### 2. Sintaks Kode yang Hilang pada Slide Modul
-* Pada Slide 16 (Program Positif/Negatif), kode di modul tertulis:
+### 2. Sintaks Kode yang harus dilampirkan
+* Pada Pembuatan keputusan (Program Positif/Negatif), kode di modul tertulis:
   `#include <stdio.h> { int x,y; ... }` (fungsi `main()` terhapus secara tidak sengaja).
 * **Solusi**: Wajib menambahkan fungsi utama `int main()` secara eksplisit.
 
